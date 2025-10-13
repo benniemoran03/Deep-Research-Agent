@@ -22,3 +22,4 @@ class ResearchAgent:
         path = self.reporter.build(query, summary)
         print(f"✅ Done! Report saved to {path}")
 
+
