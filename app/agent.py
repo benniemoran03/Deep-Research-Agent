@@ -21,3 +21,4 @@ class ResearchAgent:
         print("[3/3] Generating report...")
         path = self.reporter.build(query, summary)
         print(f"✅ Done! Report saved to {path}")
+
