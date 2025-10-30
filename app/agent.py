@@ -1,6 +1,5 @@
 
 
-
 import os
 from app.search import WebSearcher
 from app.summarizer import Summarizer
